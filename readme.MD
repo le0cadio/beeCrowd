@@ -17,6 +17,9 @@ This repository contains solutions to coding exercises from the Beecrowd platfor
 2. Open the project in IntelliJ IDEA.
 3. Run the solutions from the `src/main/kotlin/` directory.
 
+## Profile
+https://judge.beecrowd.com/pt/profile/666913
+
 ## Contributing
 
 Feel free to submit pull requests with new solutions or improvements to existing ones.
