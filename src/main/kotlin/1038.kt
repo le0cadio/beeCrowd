@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
     val codigo = scanner.nextInt()
     val quantidade = scanner.nextInt()
 
-    val preco = when(codigo) {
+    val preco = when (codigo) {
         1 -> 4.00
         2 -> 4.50
         3 -> 5.00
@@ -16,6 +16,5 @@ fun main(args: Array<String>) {
 
     val total = preco * quantidade
 
-    println("%.2f".format(total))
-
+    println("Total: R$ %.2f".format(total))
 }
